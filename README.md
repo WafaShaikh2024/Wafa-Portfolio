@@ -59,7 +59,6 @@ Want to explore the code or customize it for your own use? Follow these steps:
 
 Clone the repo:
 
-bash
 Copy code
 git clone https://github.com/WafaShaikh2024/Wafa-Portfolio.git
 
