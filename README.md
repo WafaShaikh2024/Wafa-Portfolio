@@ -8,8 +8,7 @@ Fully Responsive Layout – Optimized for desktop, tablet, and mobile
 
 Smooth Animations – Scroll effects and hover interactions for a polished user experience
 
-Project Gallery – Interactive image displ![Uploading brand1.png…]()
-ays for each featured project
+Project Gallery – Interactive image displays for each featured project
 
 Clean UI/UX – A minimal and user-friendly design approach
 
