@@ -1,5 +1,7 @@
 Wafa Shaikh – Portfolio Website
-Welcome to my personal portfolio website! This site showcases a collection of my work in web design, UI/UX, and creative projects. It’s built using HTML5, CSS3, and a touch of JavaScript, with a focus on clean design, responsiveness, and interactive elements.
+
+Welcome to my personal portfolio website! This site showcases a collection of my work in web design, UI/UX, and creative projects. 
+It’s built using HTML5, CSS3, and a touch of JavaScript, with a focus on clean design, responsiveness, and interactive elements.
 
 
 
@@ -60,6 +62,7 @@ Clone the repo:
 bash
 Copy code
 git clone https://github.com/WafaShaikh2024/Wafa-Portfolio.git
+
 Open the folder in your code editor.
 
 Launch index.html in your browser to view the site locally.
